@@ -11,10 +11,16 @@ kellerarduinoMQTT has the same functionalty with MQTT support added.
 Example of the MQTT data:
 
 home/sensors/indoor/humidity -> 55.67
+
 home/sensors/indoor/temperature -> 22.34
+
 home/sensors/indoor/absolute_humidity -> 9.45
+
 home/sensors/outdoor/humidity -> 45.12
+
 home/sensors/outdoor/temperature -> 19.67
+
 home/sensors/outdoor/absolute_humidity -> 8.32
+
 home/relay/status -> ON
 
